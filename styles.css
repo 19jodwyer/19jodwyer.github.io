@@ -5,7 +5,14 @@ img {
 
 body {
     text-align: center;
-    font-family: Arial;
-    color: white;
+    font-family: Times;
+    color: orange;
     background-image: url("http://www.wallpaperbetter.com/wallpaper/1018/935/824/stars-blue-sky-night-trees-sky-fantasy-1080P-wallpaper.jpg");
+}
+
+p {
+    text-align: left;
+    font-family: cursive;
+    color: white;
+    font-style: oblique;
 }
