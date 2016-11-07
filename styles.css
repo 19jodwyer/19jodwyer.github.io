@@ -1,18 +1,22 @@
 
 img {
 
-    width: 300px;
+    width: 3px;
 }
 
 h1 {
     text-align: center;
-    font-family: Times;
+    padding-top: 120px;
+    font-family: times;
     color: white;
+    font-size: 150px;
+    opacity: 1;
 }
 
 body {   
     text-align: center;
-    background-image: url("http://www.wallpaperbetter.com/wallpaper/1018/935/824/stars-blue-sky-night-trees-sky-fantasy-1080P-wallpaper.jpg");
+    background-image: url("images/galaxy.jpg");
+    background-size: cover
 }
 
 p {
